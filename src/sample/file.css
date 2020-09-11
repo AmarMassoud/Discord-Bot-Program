@@ -1,0 +1,33 @@
+.button{
+    -fx-background-color: #292929;
+    -fx-text-fill: white;
+}
+.root{
+    -fx-background-color: #3A3A3A;
+}
+.text-field{
+    -fx-background-color: white;
+}
+.label{
+    -fx-text-fill: white;
+    -fx-font-family: "Arial";
+}
+#welcomeLabel{
+    -fx-font-size: 23px;
+    -fx-font-style: normal;
+    -fx-font-weight: bold;
+}
+.choice-box .label{
+    -fx-text-fill: cyan;
+    -fx-font-weight: bold;
+    -fx-text-alignment: left;
+}
+.choice-box{
+    -fx-background-color: gray;
+}
+.choice-box .context-menu {
+    -fx-background-color: black;
+}
+#tokenLabel{
+    -fx-font-size: 15px;
+}

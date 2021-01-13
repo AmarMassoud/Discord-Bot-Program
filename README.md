@@ -45,7 +45,7 @@ Then you can use the program by pasting the token in the program and clicking "L
 
 3. After adding what you want to send to the channel, click on "Add field" to add a field to the Embed. You can add up to 25 fields and can have up to 2048 characters in an Embeds's description.
 
-   ![image-20210113110851735](C:\Users\awali\AppData\Roaming\Typora\typora-user-images\image-20210113110851735.png)
+   ![image-20210113110851735](https://media.discordapp.net/attachments/693981077714239509/798823415502602270/unknown.png)
 
    Optionally, you can specify a color for the Embed, you can either choose a built-in color, or use a HEX color code. If you want to use one of the built-in colors, you can change it from a "Color code" to one of the colors available. If you want to use a color code then use one of the HEX/HTML color pickers online. ([This is an example](https://htmlcolorcodes.com/)). Do keep in mind that you will have to add a `0x` before the color code for it to work.
 
